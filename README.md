@@ -1,1 +1,1 @@
-# KodekarCompetition
+# DepartmentCompetitions
