@@ -34,7 +34,7 @@ int main() {
     for(i=0;i<strlen(str);i++)
     {
     if(str[i]>='a'&&str[i]<='z')
-    str[i]^=32;
+    str[i]^=32;           // or a[i]=a[i]-32;
     }
     printf("%s\n",str);
 
