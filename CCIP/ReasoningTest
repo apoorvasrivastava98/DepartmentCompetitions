@@ -1,0 +1,42 @@
+/*
+Hari got stuck in a letter reasoning test. Help him out to solve the problem. The series consists only letter abc in same albhabetical order each time. You can only use only letters a,b,c any number of times to complete the series. You have to find the missing letters to complete the series and print the missing letters only.
+
+The length of the series will be based on the users input N.
+
+Ex:- Suppose user enters the value of N is 1
+
+then, complete series will be "abc"
+
+Now,suppose user enters the value of N is 2
+
+then, complete series will be "abcaabbcc"
+
+Now,suppose user enters the value of N is 3
+
+then, complete series will be "abcaabbccaaabbbccc"
+
+Input Format
+
+First line will define the length of series i.e. value of N.
+
+Second line will contain the incomplete series.
+
+Constraints
+
+Size of N
+
+0
+
+Output Format
+
+Output will contain only the missing letters from the series.
+
+Sample Input 0
+
+3
+abcaabbcaabbbccc
+Sample Output 0
+
+ca
+*/
+
